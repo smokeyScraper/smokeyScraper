@@ -1,7 +1,7 @@
 ## Hi there 👋
-Your average self taught programmer. Preferably, wannabe MLE/Data Scientist/Backend Engineer
+Self taught programmer. Preferably, wannabe MLE/Data Scientist/Backend Engineer
 - 🔭 I’m currently working on [PaperFlux](https://github.com/kartikbhtt7/PaperFlux)
-- 🌱 I’m currently learning agentic systems and their interactions
+- 🌱 I’m currently learning agentic systems and their interactions along with Optimizations.
 - 💬 Ask me about: ML, DL, Computer Vision, NLP, Optimizations, Backend systems <img src="python.png" width="16" height="16"/> /<img src="golang.png" width="16" height="16"/> 
 - 📫 How to reach me: <img src="discord.png" width="16" height="16"/> smokey_d_scraper / 📧 kartikbhtt7@gmail.com
 - ⚡ Fun fact: I love working on optimizations and will always give a shot on optimizing your codebase/architecture
